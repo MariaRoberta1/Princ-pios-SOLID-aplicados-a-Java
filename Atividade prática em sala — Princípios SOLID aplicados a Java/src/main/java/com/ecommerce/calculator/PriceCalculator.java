@@ -1,5 +1,5 @@
-package com.ecommerce.calculator;/*
-*///package com.ecommerce;
+package com.ecommerce.calculator;
+
 import java.util.List;
 
 public class PriceCalculator {
