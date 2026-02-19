@@ -29,7 +29,7 @@ class OrderService {
 /*
 
 
- Problema de SRP detectado: Uma classe deve ter apenas 1 responsabilidade , essa clase possui 4 responsabilidades, essa clase ficou responsavel pelo Calculo
+ SRP (Single Responsibility): Uma classe deve ter apenas 1 responsabilidade , essa clase possui 4 responsabilidades, essa clase ficou responsavel pelo Calculo
  por processar o metodo de pagamento , salvar o pedido e ainda enviar o email, essas 4 coisas ao mexer com uma delas altera toda a classe
 
 
